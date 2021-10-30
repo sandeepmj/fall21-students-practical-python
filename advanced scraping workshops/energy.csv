@@ -1,0 +1,574 @@
+Notice Type,Posted Date/Time,Notice Effective Date/Time,Notice End Date/Time,Notice Identifier,Subject,Response Date/Time,unit
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113660,Measurement Integrity Downtime this Friday Night,,BGS
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113470,Current Customer Usage and Informational Posting Downtime,,BGS
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112445,LINK System has been restored to full operation,,BGS
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112346,LINK System Downtime Due to System Maintenance -- Reminder,,BGS
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112117,LINK System Downtime Due to System Maintenance,,BGS
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111660,Additional TSA requirements that will impact LINK,,BGS
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111530,Forced Password Reset of LINK User Account Password,,BGS
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111435,Reminder - Please reset your LINK password by August 25,,BGS
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111120,LINK System Downtime Due to System Maintenance,,BGS
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110956,TSA Directive - Required Password Changes,,BGS
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113661,Measurement Integrity Downtime this Friday Night,,BIG
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113471,Current Customer Usage and Informational Posting Downtime,,BIG
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112446,LINK System has been restored to full operation,,BIG
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112347,LINK System Downtime Due to System Maintenance -- Reminder,,BIG
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112118,LINK System Downtime Due to System Maintenance,,BIG
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111661,Additional TSA requirements that will impact LINK,,BIG
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111531,Forced Password Reset of LINK User Account Password,,BIG
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111436,Reminder - Please reset your LINK password by August 25,,BIG
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111121,LINK System Downtime Due to System Maintenance,,BIG
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110957,TSA Directive - Required Password Changes,,BIG
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113662,Measurement Integrity Downtime this Friday Night,,BSP
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113472,Current Customer Usage and Informational Posting Downtime,,BSP
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112447,LINK System has been restored to full operation,,BSP
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112348,LINK System Downtime Due to System Maintenance -- Reminder,,BSP
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112119,LINK System Downtime Due to System Maintenance,,BSP
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111662,Additional TSA requirements that will impact LINK,,BSP
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111532,Forced Password Reset of LINK User Account Password,,BSP
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111437,Reminder - Please reset your LINK password by August 25,,BSP
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111122,LINK System Downtime Due to System Maintenance,,BSP
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110958,TSA Directive - Required Password Changes,,BSP
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113663,Measurement Integrity Downtime this Friday Night,,EG
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113473,Current Customer Usage and Informational Posting Downtime,,EG
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112448,LINK System has been restored to full operation,,EG
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112349,LINK System Downtime Due to System Maintenance -- Reminder,,EG
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112120,LINK System Downtime Due to System Maintenance,,EG
+Capacity Constraint,09/08/2021 02:54:23 PM,09/09/2021 09:00:00 AM,09/10/2021 09:00:00 AM,112093,EGAN Storage Conditions for 9/9/2021,,EG
+Capacity Constraint,09/07/2021 03:03:58 PM,09/08/2021 09:00:00 AM,09/09/2021 09:00:00 AM,112065,EGAN Storage Conditions for 9/8/2021,,EG
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111663,Additional TSA requirements that will impact LINK,,EG
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111533,Forced Password Reset of LINK User Account Password,,EG
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111438,Reminder - Please reset your LINK password by August 25,,EG
+Capacity Constraint,08/12/2021 08:18:09 AM,08/12/2021 08:18:09 AM,11/10/2021 08:18:09 AM,111217,Egan Planned Outage - Kinder Morgan MR 45122 -- COMPLETE,,EG
+Capacity Constraint,08/11/2021 02:09:26 PM,08/12/2021 09:00:00 AM,08/13/2021 09:00:00 AM,111189,EGAN Storage Conditions for 8/12/2021,,EG
+Capacity Constraint,08/10/2021 02:17:46 PM,08/11/2021 09:00:00 AM,08/12/2021 09:00:00 AM,111149,Egan Storage Conditions for 8/11/2021,,EG
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111123,LINK System Downtime Due to System Maintenance,,EG
+Capacity Constraint,08/09/2021 02:41:45 PM,08/10/2021 09:00:00 AM,08/11/2021 09:00:00 AM,111096,EGAN Storage Conditions for 8/10/2021,,EG
+Capacity Constraint,08/08/2021 02:54:32 PM,08/09/2021 09:00:00 AM,08/10/2021 09:00:00 AM,111073,Egan Storage Conditions for 8/9/2021,,EG
+Capacity Constraint,08/07/2021 03:11:46 PM,08/08/2021 09:00:00 AM,08/09/2021 09:00:00 AM,111063,Egan Storage Conditions for 8/8/2021,,EG
+Capacity Constraint,08/06/2021 02:22:58 PM,08/07/2021 09:00:00 AM,08/08/2021 09:00:00 AM,111018,Egan Storage Conditions for 8/7/2021,,EG
+Capacity Constraint,08/05/2021 02:26:25 PM,08/06/2021 09:00:00 AM,08/07/2021 09:00:00 AM,110987,Egan Storage Conditions for 8/6/2021,,EG
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110959,TSA Directive - Required Password Changes,,EG
+Capacity Constraint,08/04/2021 02:23:33 PM,08/05/2021 09:00:00 AM,08/06/2021 09:00:00 AM,110936,Egan Storage Conditions for 8/5/2021,,EG
+Capacity Constraint,08/03/2021 01:58:51 PM,08/04/2021 09:00:00 AM,08/05/2021 09:00:00 AM,110898,Egan Storage Conditions for 8/4/2021,,EG
+Capacity Constraint,08/02/2021 01:57:08 PM,08/03/2021 09:00:00 AM,08/04/2021 09:00:00 AM,110868,Egan Storage Conditions for 8/3/2021,,EG
+Capacity Constraint,08/01/2021 02:57:51 PM,08/02/2021 09:00:00 AM,08/03/2021 09:00:00 AM,110844,Egan Storage Conditions for 8/2/2021,,EG
+Capacity Constraint,10/29/2021 03:25:48 PM,10/30/2021 09:00:00 AM,10/31/2021 09:00:00 AM,113860,ETNG Pipeline Conditions for 10/30/2021,,ET
+Capacity Constraint,10/29/2021 06:59:29 AM,10/30/2021 09:00:00 AM,11/02/2021 09:00:00 AM,113824,Wartburg to Topside Detailed Investigations,,ET
+Capacity Constraint,10/28/2021 02:15:26 PM,10/29/2021 09:00:00 AM,10/30/2021 09:00:00 AM,113796,ETNG Pipeline Conditions for 10/29/2021,,ET
+Capacity Constraint,10/27/2021 02:39:21 PM,10/28/2021 09:00:00 AM,10/29/2021 09:00:00 AM,113757,ETNG Pipeline Conditions for 10/28/2021,,ET
+Capacity Constraint,10/26/2021 02:30:15 PM,10/27/2021 09:00:00 AM,10/28/2021 09:00:00 AM,113727,ETNG Pipeline Conditions for 10/27/2021,,ET
+Capacity Constraint,10/25/2021 03:14:07 PM,10/26/2021 09:00:00 AM,10/27/2021 09:00:00 AM,113705,ETNG Pipeline Conditions for 10/26/2021 - INTRADAY,,ET
+Capacity Constraint,10/25/2021 02:48:43 PM,10/26/2021 09:00:00 AM,10/27/2021 09:00:00 AM,113687,ETNG Pipeline Conditions for 10/26/2021,,ET
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113664,Measurement Integrity Downtime this Friday Night,,ET
+Capacity Constraint,10/24/2021 02:44:23 PM,10/25/2021 09:00:00 AM,10/26/2021 09:00:00 AM,113636,ETNG Pipeline Conditions for 10/25/2021,,ET
+Capacity Constraint,10/23/2021 02:44:59 PM,10/24/2021 09:00:00 AM,10/25/2021 09:00:00 AM,113609,ETNG Pipeline Conditions for 10/24/2021,,ET
+Capacity Constraint,10/22/2021 03:46:09 PM,10/23/2021 09:00:00 AM,10/24/2021 09:00:00 AM,113597,ETNG Pipeline Conditions for 10/23/2021,,ET
+Capacity Constraint,10/22/2021 01:31:41 PM,10/22/2021 01:31:41 PM,01/20/2022 01:31:41 PM,113574,ETNG 3100-1 VS 1-A Dixon Springs To Gainsboro Pipeline Investigations -- COMPLETE,,ET
+Capacity Constraint,10/21/2021 02:56:42 PM,10/22/2021 09:00:00 AM,10/23/2021 09:00:00 AM,113543,ET Pipeline Conditions for 10/22/2021,,ET
+Capacity Constraint,10/20/2021 02:58:37 PM,10/21/2021 09:00:00 AM,10/22/2021 09:00:00 AM,113503,ETNG Pipeline Conditions for 10/21/2021,,ET
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113474,Current Customer Usage and Informational Posting Downtime,,ET
+Capacity Constraint,10/19/2021 03:24:15 PM,10/20/2021 09:00:00 AM,10/21/2021 09:00:00 AM,113464,ETNG Pipeline Conditions for 10/20/2021,,ET
+Capacity Constraint,10/18/2021 03:14:46 PM,10/19/2021 09:00:00 AM,10/20/2021 09:00:00 AM,113430,ETNG Pipeline Conditions for 10/19/2021,,ET
+Capacity Constraint,10/17/2021 02:56:38 PM,10/18/2021 09:00:00 AM,10/19/2021 09:00:00 AM,113390,ETNG Pipeline Conditions for 10/18/2021,,ET
+Capacity Constraint,10/16/2021 03:34:47 PM,10/17/2021 09:00:00 AM,10/18/2021 09:00:00 AM,113380,ETNG Pipeline Conditions for 10/17/2021,,ET
+Capacity Constraint,10/15/2021 02:53:16 PM,10/16/2021 09:00:00 AM,10/17/2021 09:00:00 AM,113335,ETNG Pipeline Conditions for 10/16/2021,,ET
+Capacity Constraint,10/14/2021 03:16:18 PM,10/15/2021 09:00:00 AM,10/16/2021 09:00:00 AM,113315,ETNG Pipeline Conditions for 10/15/2021,,ET
+Capacity Constraint,10/14/2021 10:19:48 AM,10/14/2021 10:19:48 AM,01/12/2022 10:19:48 AM,113288,ETNG 3300-1 Boyd's Creek Hydro -- COMPLETE,,ET
+Capacity Constraint,10/13/2021 02:33:48 PM,10/14/2021 09:00:00 AM,10/15/2021 09:00:00 AM,113259,ETNG Pipeline Conditions for 10/14/2021,,ET
+Capacity Constraint,10/12/2021 02:21:43 PM,10/13/2021 09:00:00 AM,10/14/2021 09:00:00 AM,113226,ETNG Pipeline Conditions for 10/13/2021,,ET
+Capacity Constraint,10/11/2021 02:37:34 PM,10/12/2021 09:00:00 AM,10/13/2021 09:00:00 AM,113201,ETNG Pipeline Conditions for 10/12/2021,,ET
+Capacity Constraint,10/10/2021 02:14:36 PM,10/11/2021 09:00:00 AM,10/12/2021 09:00:00 AM,113170,ETNG Pipeline Conditions for 10/11/2021,,ET
+Capacity Constraint,10/09/2021 02:28:21 PM,10/10/2021 09:00:00 AM,10/11/2021 09:00:00 AM,113144,ETNG Pipeline Conditions for 10/10/2021,,ET
+Capacity Constraint,10/08/2021 02:39:00 PM,10/09/2021 09:00:00 AM,10/10/2021 09:00:00 AM,113100,ETNG Pipeline Conditions for 10/9/2021,,ET
+Capacity Constraint,10/07/2021 02:55:50 PM,10/08/2021 09:00:00 AM,10/09/2021 09:00:00 AM,113061,ETNG Pipeline Conditions for 10/8/2021,,ET
+Capacity Constraint,10/06/2021 02:48:28 PM,10/07/2021 09:00:00 AM,10/08/2021 09:00:00 AM,113028,ETNG Pipeline Conditions for 10/7/2021,,ET
+Capacity Constraint,10/05/2021 03:59:48 PM,10/06/2021 09:00:00 AM,10/07/2021 09:00:00 AM,113012,ETNG Pipeline Conditions for 10/6/2021,,ET
+Capacity Constraint,10/04/2021 03:36:32 PM,10/05/2021 09:00:00 AM,10/06/2021 09:00:00 AM,112973,ETNG Pipeline Conditions for 10/5/2021,,ET
+Capacity Constraint,10/03/2021 03:18:34 PM,10/04/2021 09:00:00 AM,10/05/2021 09:00:00 AM,112940,ETNG Pipeline Conditions for 10/4/2021,,ET
+Capacity Constraint,10/02/2021 03:51:23 PM,10/03/2021 09:00:00 AM,10/04/2021 09:00:00 AM,112915,ETNG Pipeline Conditions for 10/3/2021,,ET
+Capacity Constraint,10/01/2021 03:52:57 PM,10/02/2021 09:00:00 AM,10/03/2021 09:00:00 AM,112882,ETNG Pipeline Conditions for 10/2/2021,,ET
+Capacity Constraint,09/30/2021 02:48:17 PM,10/01/2021 09:00:00 AM,10/02/2021 09:00:00 AM,112824,ETNG Pipeline Conditions for 10/1/2021,,ET
+Capacity Constraint,09/29/2021 02:42:48 PM,09/30/2021 09:00:00 AM,10/01/2021 09:00:00 AM,112773,ETNG Pipeline Conditions for 9/30/2021,,ET
+Capacity Constraint,09/28/2021 02:39:02 PM,09/29/2021 09:00:00 AM,09/30/2021 09:00:00 AM,112740,ETNG Pipeline Conditions for 9/29/2021,,ET
+Capacity Constraint,09/27/2021 04:29:48 PM,09/28/2021 09:00:00 AM,09/29/2021 09:00:00 AM,112728,ETNG Pipeline Conditions for 9/28/2021,,ET
+Capacity Constraint,09/26/2021 02:49:56 PM,09/27/2021 09:00:00 AM,09/28/2021 09:00:00 AM,112671,ETNG Pipeline Conditions for 9/27/2021,,ET
+Capacity Constraint,09/26/2021 12:16:10 PM,09/26/2021 12:16:10 PM,12/25/2021 12:16:10 PM,112667,Monterey to Clark Range Detailed Investigations -- UPDATE,,ET
+Capacity Constraint,09/25/2021 02:27:31 PM,09/26/2021 09:00:00 AM,09/27/2021 09:00:00 AM,112647,ETNG Pipeline Conditions for 9/26/2021,,ET
+Capacity Constraint,09/25/2021 08:00:00 AM,09/25/2021 08:00:00 AM,12/24/2021 07:37:51 AM,112639,Monterey to Clark Range Detailed Investigations,,ET
+Capacity Constraint,09/24/2021 03:33:08 PM,09/25/2021 09:00:00 AM,09/26/2021 09:00:00 AM,112633,ETNG Pipeline Conditions for 9/25/2021,,ET
+Capacity Constraint,09/23/2021 02:44:19 PM,09/24/2021 09:00:00 AM,09/25/2021 09:00:00 AM,112588,ETNG Pipeline Conditions for 9/24/2021,,ET
+Capacity Constraint,09/22/2021 02:20:51 PM,09/23/2021 09:00:00 AM,09/24/2021 09:00:00 AM,112556,ETNG Pipeline Conditions for 9/23/2021,,ET
+Capacity Constraint,09/21/2021 02:45:39 PM,09/22/2021 09:00:00 AM,09/23/2021 09:00:00 AM,112530,ETNG Pipeline Conditions 9/22/2021,,ET
+Capacity Constraint,09/20/2021 02:20:41 PM,09/21/2021 09:00:00 AM,09/22/2021 09:00:00 AM,112496,ETNG Pipeline Conditions for 9/21/2021,,ET
+Capacity Constraint,09/20/2021 08:36:15 AM,09/20/2021 09:00:00 AM,12/19/2021 08:36:15 AM,112491,ETNG Imbalance Notice -- UPDATE,,ET
+Operational Flow Order,09/20/2021 08:11:05 AM,09/20/2021 09:00:00 AM,12/19/2021 08:11:05 AM,112490,ETNG Operational Flow Order -- LIFTED EFF 9AM 9/20,,ET
+Capacity Constraint,09/19/2021 03:21:08 PM,09/20/2021 09:00:00 AM,09/21/2021 09:00:00 AM,112485,ETNG Pipeline Conditions for 9/20/2021,,ET
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112449,LINK System has been restored to full operation,,ET
+Capacity Constraint,09/17/2021 07:06:17 PM,09/19/2021 09:00:00 AM,09/20/2021 09:00:00 AM,112423,ETNG Pipeline Conditions for 9/19/2021,,ET
+Capacity Constraint,09/17/2021 07:03:14 PM,09/17/2021 07:03:14 PM,12/16/2021 07:03:14 PM,112422,3200-1 Tracy City to Ooltewah VS-04 Outage -- COMPLETE,,ET
+Capacity Constraint,09/17/2021 02:23:55 PM,09/18/2021 09:00:00 AM,09/19/2021 09:00:00 AM,112398,ETNG Pipeline Conditions for 9/18/2021,,ET
+Capacity Constraint,09/16/2021 03:55:23 PM,09/16/2021 03:55:23 PM,12/15/2021 03:55:23 PM,112390,Rural Retreat Compressor Station Outage -- COMPLETE,,ET
+Capacity Constraint,09/16/2021 02:33:35 PM,09/17/2021 09:00:00 AM,09/18/2021 09:00:00 AM,112369,ETNG Pipeline Conditions for 9/17/2021,,ET
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112350,LINK System Downtime Due to System Maintenance -- Reminder,,ET
+Capacity Constraint,09/15/2021 02:41:45 PM,09/16/2021 09:00:00 AM,09/17/2021 09:00:00 AM,112321,ETNG Pipeline Conditions for 9/16/2021,,ET
+Capacity Constraint,09/14/2021 03:03:24 PM,09/15/2021 09:00:00 AM,09/16/2021 09:00:00 AM,112293,ETNG Pipeline Conditions for 9/15/2021,,ET
+Capacity Constraint,09/14/2021 02:59:58 PM,09/15/2021 09:00:00 AM,12/13/2021 02:59:58 PM,112292,ETNG Imbalance Notice -- UPDATE,,ET
+Operational Flow Order,09/13/2021 03:32:45 PM,09/15/2021 09:00:00 AM,12/12/2021 03:32:45 PM,112279,ETNG Operational Flow Order,,ET
+Capacity Constraint,09/13/2021 03:09:04 PM,09/14/2021 09:00:00 AM,09/15/2021 09:00:00 AM,112273,ETNG Pipeline Conditions for 9/14/2021,,ET
+Capacity Constraint,09/12/2021 02:53:50 PM,09/13/2021 09:00:00 AM,09/14/2021 09:00:00 AM,112234,ETNG Pipeline Conditions for 9/13/2021,,ET
+Capacity Constraint,09/11/2021 03:36:50 PM,09/12/2021 09:00:00 AM,09/13/2021 09:00:00 AM,112224,ETNG Pipeline Conditions for 9/12/2021,,ET
+Capacity Constraint,09/10/2021 03:03:16 PM,09/11/2021 09:00:00 AM,09/12/2021 09:00:00 AM,112184,ETNG Pipeline Conditions for 9/11/2021,,ET
+Capacity Constraint,09/09/2021 02:47:28 PM,09/10/2021 09:00:00 AM,09/11/2021 09:00:00 AM,112141,ETNG Pipeline Conditions for 9/10/2021,,ET
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112121,LINK System Downtime Due to System Maintenance,,ET
+Capacity Constraint,09/08/2021 03:08:06 PM,09/09/2021 09:00:00 AM,09/10/2021 09:00:00 AM,112113,ETNG Pipeline Conditions for 9/9/2021,,ET
+Capacity Constraint,09/07/2021 02:16:55 PM,09/08/2021 09:00:00 AM,09/09/2021 09:00:00 AM,112061,ETNG Pipeline Conditions for 9/8/2021,,ET
+Capacity Constraint,09/06/2021 03:03:28 PM,09/07/2021 09:00:00 AM,09/08/2021 09:00:00 AM,112034,ETNG Pipeline Conditions for 9/7/2021,,ET
+Capacity Constraint,09/05/2021 02:57:53 PM,09/06/2021 09:00:00 AM,09/07/2021 09:00:00 AM,112010,ETNG Pipeline Conditions for 9/6/2021,,ET
+Capacity Constraint,09/04/2021 03:07:28 PM,09/05/2021 09:00:00 AM,09/06/2021 09:00:00 AM,112000,ETNG Pipeline Conditions for 9/5/2021,,ET
+Capacity Constraint,09/03/2021 02:49:07 PM,09/04/2021 09:00:00 AM,09/05/2021 09:00:00 AM,111958,ETNG Pipeline Conditions for 9/4/2021,,ET
+Capacity Constraint,09/02/2021 02:24:50 PM,09/03/2021 09:00:00 AM,09/04/2021 09:00:00 AM,111924,ETNG Pipeline Conditions for 9/3/2021,,ET
+Capacity Constraint,09/02/2021 08:10:36 AM,09/03/2021 09:00:00 AM,12/01/2021 08:10:36 AM,111915,ETNG Imbalance Notice -- UPDATE,,ET
+Capacity Constraint,09/01/2021 02:34:35 PM,09/02/2021 09:00:00 AM,09/03/2021 09:00:00 AM,111889,ETNG Pipeline Conditions for 9/2/2021,,ET
+Capacity Constraint,08/31/2021 02:29:03 PM,09/01/2021 09:00:00 AM,09/02/2021 09:00:00 AM,111855,ETNG Pipeline Conditions for 9/1/2021,,ET
+Capacity Constraint,08/30/2021 02:25:00 PM,08/31/2021 09:00:00 AM,09/01/2021 09:00:00 AM,111822,ETNG Pipeline Conditions for 8/31/2021,,ET
+Capacity Constraint,08/29/2021 02:51:35 PM,08/30/2021 09:00:00 AM,08/31/2021 09:00:00 AM,111797,ETNG Pipeline Conditions for 8/30/2021,,ET
+Capacity Constraint,08/28/2021 02:57:53 PM,08/29/2021 09:00:00 AM,08/30/2021 09:00:00 AM,111773,ETNG Pipeline Conditions for 8/29/2021,,ET
+Capacity Constraint,08/27/2021 01:59:11 PM,08/28/2021 09:00:00 AM,08/29/2021 09:00:00 AM,111746,ETNG Pipeline Conditions for 8/28/2021,,ET
+Capacity Constraint,08/26/2021 02:36:58 PM,08/27/2021 09:00:00 AM,08/28/2021 09:00:00 AM,111713,ETNG Pipeline Conditions for 8/27/2021,,ET
+Capacity Constraint,08/25/2021 08:04:24 PM,08/25/2021 08:04:24 PM,11/23/2021 08:04:24 PM,111682,3200-1 Lewisburg to Estill Springs VS-04 Outage -- COMPLETE,,ET
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111664,Additional TSA requirements that will impact LINK,,ET
+Capacity Constraint,08/25/2021 02:22:07 PM,08/26/2021 09:00:00 AM,08/27/2021 09:00:00 AM,111630,ETNG Pipeline Conditions for 8/26/2021,,ET
+Capacity Constraint,08/24/2021 02:43:46 PM,08/25/2021 09:00:00 AM,08/26/2021 09:00:00 AM,111603,ETNG Pipeline Conditions for 8/25/2021,,ET
+Capacity Constraint,08/23/2021 03:14:16 PM,08/24/2021 09:00:00 AM,08/25/2021 09:00:00 AM,111571,ETNG Pipeline Conditions for 8/24/2021,,ET
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111534,Forced Password Reset of LINK User Account Password,,ET
+Capacity Constraint,08/22/2021 03:02:07 PM,08/23/2021 09:00:00 AM,08/24/2021 09:00:00 AM,111510,ETNG Pipeline Conditions for 8/23/2021,,ET
+Capacity Constraint,08/21/2021 03:02:15 PM,08/22/2021 09:00:00 AM,08/23/2021 09:00:00 AM,111486,ETNG Pipeline Conditions for 8/22/2021,,ET
+Capacity Constraint/Planned Service Outage,08/21/2021 08:56:00 AM,08/21/2021 08:56:00 AM,11/19/2021 08:56:00 AM,111480,Maryville to TopS VS2 Hydro -- COMPLETE,,ET
+Capacity Constraint,08/20/2021 02:27:10 PM,08/21/2021 09:00:00 AM,08/22/2021 09:00:00 AM,111459,ETNG Pipeline Conditions for 8/21/2021,,ET
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111439,Reminder - Please reset your LINK password by August 25,,ET
+Capacity Constraint,08/19/2021 03:00:21 PM,08/20/2021 09:00:00 AM,08/21/2021 09:00:00 AM,111411,ETNG Pipeline Conditions for 8/20/2021,,ET
+Capacity Constraint,08/18/2021 02:57:02 PM,08/19/2021 09:00:00 AM,08/20/2021 09:00:00 AM,111384,ETNG Pipeline Conditions for 8/19/2021,,ET
+Capacity Constraint,08/17/2021 02:00:35 PM,08/18/2021 09:00:00 AM,08/19/2021 09:00:00 AM,111356,ETNG Pipeline Conditions for 8/18/2021,,ET
+Capacity Constraint,08/16/2021 01:52:06 PM,08/17/2021 09:00:00 AM,08/18/2021 09:00:00 AM,111328,ETNG Pipeline Conditions for 8/17/2021,,ET
+Capacity Constraint,08/15/2021 02:40:34 PM,08/16/2021 09:00:00 AM,08/17/2021 09:00:00 AM,111307,ETNG Pipeline Conditions for 8/16/2021,,ET
+Capacity Constraint,08/14/2021 03:00:07 PM,08/15/2021 09:00:00 AM,08/16/2021 09:00:00 AM,111283,ETNG Pipeline Conditions for 8/15/2021,,ET
+Capacity Constraint,08/13/2021 03:01:48 PM,08/14/2021 09:00:00 AM,08/15/2021 09:00:00 AM,111256,ETNG Pipeline Conditions for 8/14/2021,,ET
+Capacity Constraint,08/12/2021 02:30:32 PM,08/13/2021 09:00:00 AM,08/14/2021 09:00:00 AM,111229,ETNG Pipeline Conditions for 8/13/2021,,ET
+Capacity Constraint,08/11/2021 02:14:20 PM,08/12/2021 09:00:00 AM,08/13/2021 09:00:00 AM,111190,ETNG Pipeline Conditions for 8/12/2021,,ET
+Capacity Constraint,08/11/2021 10:27:07 AM,08/11/2021 10:27:07 AM,11/09/2021 10:27:07 AM,111185,Maryville To Topside VS1 Hydro Test--COMPLETE,,ET
+Capacity Constraint,08/10/2021 02:19:02 PM,08/11/2021 09:00:00 AM,08/12/2021 09:00:00 AM,111150,ETNG Pipeline Conditions for 8/11/2021,,ET
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111124,LINK System Downtime Due to System Maintenance,,ET
+Capacity Constraint,08/09/2021 02:39:36 PM,08/10/2021 09:00:00 AM,08/11/2021 09:00:00 AM,111095,ETNG Pipeline Conditions for 8/10/2021,,ET
+Capacity Constraint,08/08/2021 02:53:33 PM,08/09/2021 09:00:00 AM,08/10/2021 09:00:00 AM,111072,ETNG Pipeline Conditions for 8/9/2021,,ET
+Capacity Constraint,08/07/2021 03:10:41 PM,08/08/2021 09:00:00 AM,08/09/2021 09:00:00 AM,111062,ETNG Pipeline Conditions for 8/8/2021,,ET
+Capacity Constraint,08/06/2021 02:25:30 PM,08/07/2021 09:00:00 AM,08/08/2021 09:00:00 AM,111019,ETNG Pipeline Conditions for 8/7/2021,,ET
+Capacity Constraint,08/05/2021 02:24:12 PM,08/06/2021 09:00:00 AM,08/07/2021 09:00:00 AM,110986,ETNG Pipeline Conditions for 8/6/2021,,ET
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110960,TSA Directive - Required Password Changes,,ET
+Capacity Constraint,08/04/2021 02:21:39 PM,08/05/2021 09:00:00 AM,08/06/2021 09:00:00 AM,110935,ETNG Pipeline Conditions for 8/5/2021,,ET
+Capacity Constraint,08/03/2021 02:02:49 PM,08/04/2021 09:00:00 AM,08/05/2021 09:00:00 AM,110899,ETNG Pipeline Conditions for 8/4/2021,,ET
+Capacity Constraint,08/02/2021 02:35:02 PM,08/03/2021 09:00:00 AM,08/04/2021 09:00:00 AM,110872,ETNG Pipeline Conditions for 8/3/2021,,ET
+Capacity Constraint,08/01/2021 03:00:06 PM,08/02/2021 09:00:00 AM,08/03/2021 09:00:00 AM,110845,ETNG Pipeline Conditions for 8/2/2021,,ET
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113665,Measurement Integrity Downtime this Friday Night,,GB
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113475,Current Customer Usage and Informational Posting Downtime,,GB
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112450,LINK System has been restored to full operation,,GB
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112351,LINK System Downtime Due to System Maintenance -- Reminder,,GB
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112122,LINK System Downtime Due to System Maintenance,,GB
+Operational Alert/Weather Alert,09/03/2021 10:14:58 AM,09/03/2021 10:14:58 AM,12/02/2021 10:14:58 AM,111955,Hurricane Ida - Update,,GB
+Operational Alert/Weather Alert,09/01/2021 09:27:17 PM,09/01/2021 09:27:17 PM,11/30/2021 09:27:17 PM,111913,Hurricane Ida - Update,,GB
+Operational Alert/Weather Alert,09/01/2021 10:40:33 AM,09/01/2021 10:40:33 AM,11/30/2021 10:40:33 AM,111884,Hurricane Ida - Update,,GB
+Operational Alert/Weather Alert,08/27/2021 08:02:38 AM,08/27/2021 08:02:38 AM,11/25/2021 08:02:38 AM,111738,Tropical Storm Ida - Evacuation of All Personnel at SMI-76,,GB
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111665,Additional TSA requirements that will impact LINK,,GB
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111535,Forced Password Reset of LINK User Account Password,,GB
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111440,Reminder - Please reset your LINK password by August 25,,GB
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111125,LINK System Downtime Due to System Maintenance,,GB
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110961,TSA Directive - Required Password Changes,,GB
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113666,Measurement Integrity Downtime this Friday Night,,GPL
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113476,Current Customer Usage and Informational Posting Downtime,,GPL
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112451,LINK System has been restored to full operation,,GPL
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112352,LINK System Downtime Due to System Maintenance -- Reminder,,GPL
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112123,LINK System Downtime Due to System Maintenance,,GPL
+Capacity Constraint,08/26/2021 03:00:00 PM,08/26/2021 03:00:00 PM,11/24/2021 01:03:33 PM,111707,Generation Pipeline Planned Outage -- UPDATE,,GPL
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111666,Additional TSA requirements that will impact LINK,,GPL
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111536,Forced Password Reset of LINK User Account Password,,GPL
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111441,Reminder - Please reset your LINK password by August 25,,GPL
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111126,LINK System Downtime Due to System Maintenance,,GPL
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110962,TSA Directive - Required Password Changes,,GPL
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113668,Measurement Integrity Downtime this Friday Night,,MCGP
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113478,Current Customer Usage and Informational Posting Downtime,,MCGP
+Force Majeure,10/15/2021 11:47:01 AM,10/15/2021 11:47:01 AM,01/13/2022 11:47:01 AM,113326,Mississippi Canyon Liquids Capacity Constraint - Resolved,,MCGP
+Force Majeure,10/13/2021 08:04:51 PM,10/13/2021 08:04:51 PM,01/11/2022 08:04:51 PM,113284,Mississippi Canyon Liquids Capacity Constraint,,MCGP
+Force Majeure,10/01/2021 10:50:24 AM,10/01/2021 10:50:24 AM,12/30/2021 10:50:24 AM,112855,Mississippi Canyon Return to Service Update,,MCGP
+Force Majeure,09/27/2021 10:05:46 AM,09/27/2021 10:05:46 AM,12/26/2021 10:05:46 AM,112697,Hurricane Ida - Return to Service Update,,MCGP
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112453,LINK System has been restored to full operation,,MCGP
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112354,LINK System Downtime Due to System Maintenance -- Reminder,,MCGP
+Force Majeure,09/10/2021 09:21:04 AM,09/10/2021 09:21:04 AM,12/09/2021 09:21:04 AM,112163,Hurricane Ida - Update,,MCGP
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112125,LINK System Downtime Due to System Maintenance,,MCGP
+Operational Alert/Weather Alert,09/01/2021 10:39:13 AM,09/01/2021 10:39:13 AM,11/30/2021 10:39:13 AM,111883,Hurricane Ida - Update,,MCGP
+Force Majeure,08/30/2021 11:20:23 AM,08/30/2021 11:20:23 AM,11/28/2021 11:20:23 AM,111819,Hurricane Ida - Update,,MCGP
+Force Majeure,08/27/2021 09:26:10 AM,08/27/2021 09:26:10 AM,11/25/2021 09:26:10 AM,111743,Correction for Previous Notice - Tropical Storm Ida - Evacuation of All Personnel at SS-207,,MCGP
+Force Majeure,08/27/2021 09:01:42 AM,08/27/2021 09:01:42 AM,11/25/2021 09:01:42 AM,111740,Tropical Storm Ida - Evacuation of All Personnel at SS-207,,MCGP
+Operational Alert/Weather Alert,08/27/2021 08:04:31 AM,08/27/2021 08:04:31 AM,11/25/2021 08:04:31 AM,111739,Tropical Storm Ida - Evacuation of All Mississippi Canyon Personnel,,MCGP
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111668,Additional TSA requirements that will impact LINK,,MCGP
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111538,Forced Password Reset of LINK User Account Password,,MCGP
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111443,Reminder - Please reset your LINK password by August 25,,MCGP
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111128,LINK System Downtime Due to System Maintenance,,MCGP
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110964,TSA Directive - Required Password Changes,,MCGP
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113667,Measurement Integrity Downtime this Friday Night,,MB
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113477,Current Customer Usage and Informational Posting Downtime,,MB
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112452,LINK System has been restored to full operation,,MB
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112353,LINK System Downtime Due to System Maintenance -- Reminder,,MB
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112124,LINK System Downtime Due to System Maintenance,,MB
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111667,Additional TSA requirements that will impact LINK,,MB
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111537,Forced Password Reset of LINK User Account Password,,MB
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111442,Reminder - Please reset your LINK password by August 25,,MB
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111127,LINK System Downtime Due to System Maintenance,,MB
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110963,TSA Directive - Required Password Changes,,MB
+Capacity Constraint,08/02/2021 03:33:31 PM,08/03/2021 09:00:00 AM,08/04/2021 09:00:00 AM,110890,Moss Bluff Storage Conditions for 8/3/2021,,MB
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113669,Measurement Integrity Downtime this Friday Night,,MNCA
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113479,Current Customer Usage and Informational Posting Downtime,,MNCA
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112454,LINK System has been restored to full operation,,MNCA
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112355,LINK System Downtime Due to System Maintenance -- Reminder,,MNCA
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112126,LINK System Downtime Due to System Maintenance,,MNCA
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111669,Additional TSA requirements that will impact LINK,,MNCA
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111539,Forced Password Reset of LINK User Account Password,,MNCA
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111444,Reminder - Please reset your LINK password by August 25,,MNCA
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111129,LINK System Downtime Due to System Maintenance,,MNCA
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110965,TSA Directive - Required Password Changes,,MNCA
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113670,Measurement Integrity Downtime this Friday Night,,MNUS
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113480,Current Customer Usage and Informational Posting Downtime,,MNUS
+Capacity Constraint,10/04/2021 08:04:36 AM,10/04/2021 08:04:36 AM,01/02/2022 08:04:36 AM,112948,MNUS Imbalance Notice -- UPDATE,,MNUS
+Operational Flow Order,10/04/2021 07:59:05 AM,10/04/2021 07:59:05 AM,10/04/2021 09:00:00 AM,112947,Customer Specific Operational Flow Order,,MNUS
+Operational Flow Order,10/04/2021 07:56:32 AM,10/04/2021 07:56:32 AM,10/04/2021 09:00:00 AM,112946,MNUS Operational Flow Order,,MNUS
+Operational Flow Order,09/27/2021 07:56:11 AM,09/28/2021 09:00:00 AM,12/26/2021 07:56:11 AM,112693,MNUS Operational Flow Order,,MNUS
+Operational Flow Order,09/26/2021 02:54:43 PM,09/27/2021 09:00:00 AM,12/25/2021 02:54:43 PM,112672,Customer Specific Operational Flow Order,,MNUS
+Capacity Constraint,09/25/2021 02:24:41 PM,09/26/2021 09:00:00 AM,09/27/2021 09:00:00 AM,112646,MNUS Pipeline Conditions for 9/26/2021,,MNUS
+Capacity Constraint,09/24/2021 03:30:38 PM,09/25/2021 09:00:00 AM,09/26/2021 09:00:00 AM,112632,MNUS Pipeline Conditions for 9/25/2021,,MNUS
+Capacity Constraint,09/23/2021 02:55:31 PM,09/24/2021 09:00:00 AM,09/25/2021 09:00:00 AM,112590,MNUS Pipeline Conditions for 9/24/2021,,MNUS
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112455,LINK System has been restored to full operation,,MNUS
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112356,LINK System Downtime Due to System Maintenance -- Reminder,,MNUS
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112127,LINK System Downtime Due to System Maintenance,,MNUS
+Capacity Constraint,09/02/2021 08:30:24 AM,09/02/2021 08:30:24 AM,12/01/2021 08:30:24 AM,111917,MNUS Imbalance Notice -- REMINDER,,MNUS
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111670,Additional TSA requirements that will impact LINK,,MNUS
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111540,Forced Password Reset of LINK User Account Password,,MNUS
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111445,Reminder - Please reset your LINK password by August 25,,MNUS
+Operational Flow Order,08/17/2021 11:21:03 AM,08/17/2021 11:21:03 AM,11/15/2021 11:21:03 AM,111355,MNUS Customer Specific OFO--LIFTED,,MNUS
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111130,LINK System Downtime Due to System Maintenance,,MNUS
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110966,TSA Directive - Required Password Changes,,MNUS
+Operational Flow Order,08/02/2021 01:40:21 PM,08/04/2021 09:00:00 AM,10/31/2021 01:40:21 PM,110867,MNUS Customer Specific Operational Flow Order,,MNUS
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113671,Measurement Integrity Downtime this Friday Night,,NPC
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113481,Current Customer Usage and Informational Posting Downtime,,NPC
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112456,LINK System has been restored to full operation,,NPC
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112357,LINK System Downtime Due to System Maintenance -- Reminder,,NPC
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112128,LINK System Downtime Due to System Maintenance,,NPC
+Force Majeure,09/03/2021 10:03:22 AM,09/03/2021 10:03:22 AM,12/02/2021 10:03:22 AM,111953,Hurricane Ida - Return to Service,,NPC
+Force Majeure,09/01/2021 09:24:11 PM,09/01/2021 09:24:11 PM,11/30/2021 09:24:11 PM,111912,Hurricane Ida - Update,,NPC
+Force Majeure,09/01/2021 10:37:58 AM,09/01/2021 10:37:58 AM,11/30/2021 10:37:58 AM,111882,Hurricane Ida - Update,,NPC
+Force Majeure,08/30/2021 11:18:36 AM,08/30/2021 11:18:36 AM,11/28/2021 11:18:36 AM,111818,Hurricane Ida - Update,,NPC
+Force Majeure,08/27/2021 09:19:59 AM,08/27/2021 09:19:59 AM,11/25/2021 09:19:59 AM,111742,Tropical Storm Ida - Evacuation of All Personnel at SS-207,,NPC
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111671,Additional TSA requirements that will impact LINK,,NPC
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111541,Forced Password Reset of LINK User Account Password,,NPC
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111446,Reminder - Please reset your LINK password by August 25,,NPC
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111131,LINK System Downtime Due to System Maintenance,,NPC
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110967,TSA Directive - Required Password Changes,,NPC
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113672,Measurement Integrity Downtime this Friday Night,,NXCA
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113482,Current Customer Usage and Informational Posting Downtime,,NXCA
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112457,LINK System has been restored to full operation,,NXCA
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112358,LINK System Downtime Due to System Maintenance -- Reminder,,NXCA
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112129,LINK System Downtime Due to System Maintenance,,NXCA
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111672,Additional TSA requirements that will impact LINK,,NXCA
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111542,Forced Password Reset of LINK User Account Password,,NXCA
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111447,Reminder - Please reset your LINK password by August 25,,NXCA
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111132,LINK System Downtime Due to System Maintenance,,NXCA
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110968,TSA Directive - Required Password Changes,,NXCA
+Capacity Constraint,10/29/2021 01:29:59 PM,10/30/2021 09:00:00 AM,10/31/2021 09:00:00 AM,113834,NEXUS Pipeline Conditions for 10/30/2021,,NXUS
+Capacity Constraint,10/28/2021 02:12:03 PM,10/29/2021 09:00:00 AM,10/30/2021 09:00:00 AM,113795,NEXUS Pipeline Conditions for 10/29/2021,,NXUS
+Capacity Constraint,10/27/2021 02:40:34 PM,10/28/2021 09:00:00 AM,10/29/2021 09:00:00 AM,113758,NEXUS Pipeline Conditions for 10/28/2021,,NXUS
+Capacity Constraint,10/26/2021 02:40:07 PM,10/27/2021 09:00:00 AM,10/28/2021 09:00:00 AM,113730,NEXUS Pipeline Conditions for 10/27/2021,,NXUS
+Capacity Constraint,10/25/2021 02:50:02 PM,10/26/2021 09:00:00 AM,10/27/2021 09:00:00 AM,113688,NEXUS Pipeline Conditions for 10/26/2021,,NXUS
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113673,Measurement Integrity Downtime this Friday Night,,NXUS
+Capacity Constraint,10/24/2021 01:50:45 PM,10/25/2021 09:00:00 AM,10/26/2021 09:00:00 AM,113630,NEXUS Pipeline Conditions for 10/25/2021,,NXUS
+Capacity Constraint,10/23/2021 01:40:43 PM,10/24/2021 09:00:00 AM,10/25/2021 09:00:00 AM,113603,NEXUS Pipeline Conditions for 10/24/2021,,NXUS
+Capacity Constraint,10/22/2021 03:36:08 PM,10/23/2021 09:00:00 AM,10/24/2021 09:00:00 AM,113595,NEXUS Pipeline Conditions for 10/23/2021,,NXUS
+Capacity Constraint,10/21/2021 02:54:41 PM,10/22/2021 09:00:00 AM,10/23/2021 09:00:00 AM,113542,NEXUS Pipeline Conditions for 10/22/2021,,NXUS
+Capacity Constraint,10/20/2021 02:57:09 PM,10/21/2021 09:00:00 AM,10/22/2021 09:00:00 AM,113502,NEXUS Pipeline Conditions for 10/21/2021,,NXUS
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113483,Current Customer Usage and Informational Posting Downtime,,NXUS
+Capacity Constraint,10/19/2021 03:37:19 PM,10/20/2021 09:00:00 AM,10/21/2021 09:00:00 AM,113467,NEXUS Pipeline Conditions for 10/20/2021--CORRECTION,,NXUS
+Capacity Constraint,10/19/2021 03:25:34 PM,10/20/2021 09:00:00 AM,10/21/2021 09:00:00 AM,113465,NEXUS Pipeline Conditions for 10/20/2021,,NXUS
+Capacity Constraint,10/18/2021 03:09:04 PM,10/19/2021 09:00:00 AM,10/20/2021 09:00:00 AM,113428,NEXUS Pipeline Conditions for 10/19/2021,,NXUS
+Capacity Constraint,10/17/2021 02:55:19 PM,10/18/2021 09:00:00 AM,10/19/2021 09:00:00 AM,113389,NEXUS Pipeline Conditions for 10/18/2021,,NXUS
+Capacity Constraint,10/16/2021 03:32:03 PM,10/17/2021 09:00:00 AM,10/18/2021 09:00:00 AM,113378,NEXUS Pipeline Conditions for 10/17/2021,,NXUS
+Capacity Constraint,10/15/2021 01:33:16 PM,10/16/2021 09:00:00 AM,10/17/2021 09:00:00 AM,113329,NEXUS Pipeline Conditions for 10/16/2021,,NXUS
+Capacity Constraint,10/14/2021 02:37:23 PM,10/15/2021 09:00:00 AM,10/16/2021 09:00:00 AM,113299,NEXUS Pipeline Conditions for 10/15/2021,,NXUS
+Capacity Constraint,10/13/2021 02:31:25 PM,10/14/2021 09:00:00 AM,10/15/2021 09:00:00 AM,113258,NEXUS Pipeline Conditions for 10/14/2021,,NXUS
+Capacity Constraint,10/12/2021 02:25:32 PM,10/13/2021 09:00:00 AM,10/14/2021 09:00:00 AM,113232,NEXUS Pipeline Conditions for 10/13/2021,,NXUS
+Capacity Constraint,10/11/2021 01:34:32 PM,10/12/2021 09:00:00 AM,10/13/2021 09:00:00 AM,113194,NEXUS Pipeline Conditions for 10/12/2021,,NXUS
+Capacity Constraint,10/10/2021 01:34:52 PM,10/11/2021 09:00:00 AM,10/12/2021 09:00:00 AM,113164,NEXUS Pipeline Conditions for 10/11/2021,,NXUS
+Capacity Constraint,10/09/2021 01:33:01 PM,10/10/2021 09:00:00 AM,10/11/2021 09:00:00 AM,113138,NEXUS Pipeline Conditions for 10/10/2021,,NXUS
+Capacity Constraint,10/08/2021 01:38:47 PM,10/09/2021 09:00:00 AM,10/10/2021 09:00:00 AM,113092,NEXUS Pipeline Conditions for 10/9/2021,,NXUS
+Capacity Constraint,10/07/2021 02:57:20 PM,10/08/2021 09:00:00 AM,10/09/2021 09:00:00 AM,113062,NEXUS Pipeline Conditions for 10/8/2021,,NXUS
+Capacity Constraint,10/06/2021 01:36:43 PM,10/07/2021 09:00:00 AM,10/08/2021 09:00:00 AM,113019,NEXUS Pipeline Conditions for 10/7/2021,,NXUS
+Capacity Constraint,10/05/2021 03:58:02 PM,10/06/2021 09:00:00 AM,10/07/2021 09:00:00 AM,113011,NEXUS Pipeline Conditions for 10/6/2021,,NXUS
+Capacity Constraint,10/04/2021 03:44:21 PM,10/05/2021 09:00:00 AM,10/06/2021 09:00:00 AM,112974,NEXUS Pipeline Conditions for 10/5/2021,,NXUS
+Capacity Constraint,10/03/2021 01:38:55 PM,10/04/2021 09:00:00 AM,10/05/2021 09:00:00 AM,112921,NEXUS Pipeline Conditions for 10/4/2021,,NXUS
+Capacity Constraint,10/02/2021 01:31:29 PM,10/03/2021 09:00:00 AM,10/04/2021 09:00:00 AM,112894,NEXUS Pipeline Conditions for 10/3/2021,,NXUS
+Capacity Constraint,10/01/2021 03:54:25 PM,10/02/2021 09:00:00 AM,10/03/2021 09:00:00 AM,112883,NEXUS Pipeline Conditions for 10/2/2021,,NXUS
+Capacity Constraint,09/30/2021 02:49:36 PM,10/01/2021 09:00:00 AM,10/02/2021 09:00:00 AM,112825,NEXUS Pipeline Conditions for 10/1/2021,,NXUS
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112458,LINK System has been restored to full operation,,NXUS
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112359,LINK System Downtime Due to System Maintenance -- Reminder,,NXUS
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112130,LINK System Downtime Due to System Maintenance,,NXUS
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111673,Additional TSA requirements that will impact LINK,,NXUS
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111543,Forced Password Reset of LINK User Account Password,,NXUS
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111448,Reminder - Please reset your LINK password by August 25,,NXUS
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111133,LINK System Downtime Due to System Maintenance,,NXUS
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110969,TSA Directive - Required Password Changes,,NXUS
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113674,Measurement Integrity Downtime this Friday Night,,SESH
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113484,Current Customer Usage and Informational Posting Downtime,,SESH
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112459,LINK System has been restored to full operation,,SESH
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112360,LINK System Downtime Due to System Maintenance -- Reminder,,SESH
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112131,LINK System Downtime Due to System Maintenance,,SESH
+Capacity Constraint,08/30/2021 03:07:42 PM,08/30/2021 03:07:42 PM,11/28/2021 03:07:42 PM,111824,SESH Fall Outage Schedule,,SESH
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111674,Additional TSA requirements that will impact LINK,,SESH
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111544,Forced Password Reset of LINK User Account Password,,SESH
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111449,Reminder - Please reset your LINK password by August 25,,SESH
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111134,LINK System Downtime Due to System Maintenance,,SESH
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110970,TSA Directive - Required Password Changes,,SESH
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113675,Measurement Integrity Downtime this Friday Night,,SG
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113485,Current Customer Usage and Informational Posting Downtime,,SG
+Capacity Constraint,09/24/2021 03:28:53 PM,09/25/2021 09:00:00 AM,09/26/2021 09:00:00 AM,112631,Saltville Storage Conditions for 9/25/2021,,SG
+Capacity Constraint,09/23/2021 02:45:41 PM,09/24/2021 09:00:00 AM,09/25/2021 09:00:00 AM,112589,SGSC Storage Conditions for 9/24/2021,,SG
+Capacity Constraint,09/22/2021 02:22:18 PM,09/23/2021 09:00:00 AM,09/24/2021 09:00:00 AM,112559,Saltville Storage Conditions for 9/23/2021,,SG
+Capacity Constraint,09/21/2021 02:33:29 PM,09/22/2021 09:00:00 AM,09/23/2021 09:00:00 AM,112529,Saltville Storage Conditions for 9/22/2021,,SG
+Capacity Constraint,09/20/2021 02:22:04 PM,09/21/2021 09:00:00 AM,09/22/2021 09:00:00 AM,112499,SGSC Storage Conditions for 9/21/2021,,SG
+Capacity Constraint,09/19/2021 03:25:01 PM,09/20/2021 09:00:00 AM,09/21/2021 09:00:00 AM,112489,SGSC Storage Conditions for 9/20/2021,,SG
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112460,LINK System has been restored to full operation,,SG
+Capacity Constraint,09/17/2021 06:08:02 PM,09/19/2021 09:00:00 AM,09/20/2021 09:00:00 AM,112418,SGSC Storage Conditions for 9/19/2021,,SG
+Capacity Constraint,09/17/2021 02:25:18 PM,09/18/2021 09:00:00 AM,09/19/2021 09:00:00 AM,112399,SGSC Storage Conditions for 9/18/2021,,SG
+Capacity Constraint,09/16/2021 02:36:37 PM,09/17/2021 09:00:00 AM,09/18/2021 09:00:00 AM,112370,Saltville Storage Conditions for 9/17/2021,,SG
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112361,LINK System Downtime Due to System Maintenance -- Reminder,,SG
+Capacity Constraint,09/15/2021 02:43:10 PM,09/16/2021 09:00:00 AM,09/17/2021 09:00:00 AM,112322,SGSC Storage Conditions for 9/16/2021,,SG
+Capacity Constraint,09/14/2021 02:42:02 PM,09/15/2021 09:00:00 AM,09/16/2021 09:00:00 AM,112286,Saltville Storage Conditions for 9/15/2021,,SG
+Capacity Constraint,09/13/2021 03:14:21 PM,09/14/2021 09:00:00 AM,09/15/2021 09:00:00 AM,112274,Saltville Storage Conditions for 9/14/2021,,SG
+Capacity Constraint,09/12/2021 02:57:30 PM,09/13/2021 09:00:00 AM,09/14/2021 09:00:00 AM,112235,Saltville Storage Conditions for 9/13/2021,,SG
+Capacity Constraint,09/11/2021 03:39:07 PM,09/12/2021 09:00:00 AM,09/13/2021 09:00:00 AM,112228,SGSC Storage Conditions for 9/12/2021,,SG
+Capacity Constraint,09/10/2021 02:57:42 PM,09/11/2021 09:00:00 AM,09/12/2021 09:00:00 AM,112183,Saltville Storage Conditions for 9/11/2021,,SG
+Capacity Constraint,09/09/2021 03:00:39 PM,09/10/2021 09:00:00 AM,09/11/2021 09:00:00 AM,112142,Saltville Storage Conditions for 9/10/2021,,SG
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112132,LINK System Downtime Due to System Maintenance,,SG
+Capacity Constraint,09/08/2021 03:18:02 PM,09/09/2021 09:00:00 AM,09/10/2021 09:00:00 AM,112114,Saltville Storage Conditions for 9/9/2021 -- INTRADAY,,SG
+Capacity Constraint,09/08/2021 03:00:10 PM,09/09/2021 09:00:00 AM,09/10/2021 09:00:00 AM,112094,Saltville Storage Conditions for 9/9/2021,,SG
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111675,Additional TSA requirements that will impact LINK,,SG
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111545,Forced Password Reset of LINK User Account Password,,SG
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111450,Reminder - Please reset your LINK password by August 25,,SG
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111135,LINK System Downtime Due to System Maintenance,,SG
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110971,TSA Directive - Required Password Changes,,SG
+Capacity Constraint,10/29/2021 03:27:07 PM,10/30/2021 09:00:00 AM,10/31/2021 09:00:00 AM,113861,SR Storage Conditions for 10/30/2021,,SR
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113676,Measurement Integrity Downtime this Friday Night,,SR
+Capacity Constraint,10/24/2021 02:42:40 PM,10/25/2021 09:00:00 AM,10/26/2021 09:00:00 AM,113635,SR Storage Conditions for 10/25/2021,,SR
+Capacity Constraint,10/23/2021 02:39:15 PM,10/24/2021 09:00:00 AM,10/25/2021 09:00:00 AM,113608,SR Storage Conditions for 10/24/2021,,SR
+Capacity Constraint,10/22/2021 03:40:41 PM,10/23/2021 09:00:00 AM,10/24/2021 09:00:00 AM,113596,SR Storage Conditions for 10/23/2021,,SR
+Capacity Constraint,10/21/2021 02:52:47 PM,10/22/2021 09:00:00 AM,10/23/2021 09:00:00 AM,113541,SR Storage Conditions for 10/22/2021,,SR
+Capacity Constraint,10/20/2021 02:55:59 PM,10/21/2021 09:00:00 AM,10/22/2021 09:00:00 AM,113501,SR Storage Conditions for 10/21/2021,,SR
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113486,Current Customer Usage and Informational Posting Downtime,,SR
+Capacity Constraint,10/19/2021 03:27:46 PM,10/20/2021 09:00:00 AM,10/21/2021 09:00:00 AM,113466,SR Storage Conditions for 10/20/2021,,SR
+Capacity Constraint,10/18/2021 03:11:53 PM,10/19/2021 09:00:00 AM,10/20/2021 09:00:00 AM,113429,SR Storage Conditions for 10/19/2021,,SR
+Capacity Constraint,10/17/2021 02:54:04 PM,10/18/2021 09:00:00 AM,10/19/2021 09:00:00 AM,113388,SR Storage Conditions for 10/18/2021,,SR
+Capacity Constraint,10/16/2021 03:33:19 PM,10/17/2021 09:00:00 AM,10/18/2021 09:00:00 AM,113379,SR Storage Conditions for 10/17/2021,,SR
+Capacity Constraint,10/15/2021 02:54:45 PM,10/16/2021 09:00:00 AM,10/17/2021 09:00:00 AM,113336,SR Storage Conditions for 10/16/2021,,SR
+Capacity Constraint,10/14/2021 02:29:45 PM,10/15/2021 09:00:00 AM,10/16/2021 09:00:00 AM,113298,SR Storage Conditions for 10/15/2021,,SR
+Capacity Constraint,10/13/2021 02:26:58 PM,10/14/2021 09:00:00 AM,10/15/2021 09:00:00 AM,113257,SR Storage Conditions for 10/14/2021,,SR
+Capacity Constraint,10/12/2021 02:28:35 PM,10/13/2021 09:00:00 AM,10/14/2021 09:00:00 AM,113233,SR Storage Conditions for 10/13/2021,,SR
+Capacity Constraint,10/11/2021 02:38:49 PM,10/12/2021 09:00:00 AM,10/13/2021 09:00:00 AM,113202,SR Storage Conditions for 10/12/2021,,SR
+Capacity Constraint,10/10/2021 01:55:17 PM,10/11/2021 09:00:00 AM,10/12/2021 09:00:00 AM,113165,SR Storage Conditions for 10/11/2021,,SR
+Capacity Constraint,10/09/2021 01:56:53 PM,10/10/2021 09:00:00 AM,10/11/2021 09:00:00 AM,113139,SR Storage Conditions for 10/10/2021,,SR
+Capacity Constraint,10/08/2021 02:40:15 PM,10/09/2021 09:00:00 AM,10/10/2021 09:00:00 AM,113102,SR Storage Conditions for 10/9/2021,,SR
+Capacity Constraint,10/07/2021 02:58:49 PM,10/08/2021 09:00:00 AM,10/09/2021 09:00:00 AM,113063,SR Storage Conditions for 10/8/2021,,SR
+Capacity Constraint,10/06/2021 02:07:14 PM,10/07/2021 09:00:00 AM,10/08/2021 09:00:00 AM,113021,SR Storage Conditions for 10/7/2021,,SR
+Capacity Constraint,10/05/2021 03:56:26 PM,10/06/2021 09:00:00 AM,10/07/2021 09:00:00 AM,113010,SR Storage Conditions for 10/6/2021,,SR
+Capacity Constraint,10/04/2021 03:31:30 PM,10/05/2021 09:00:00 AM,10/06/2021 09:00:00 AM,112972,SR Storage Conditions for 10/5/2021,,SR
+Capacity Constraint,10/03/2021 03:26:17 PM,10/04/2021 09:00:00 AM,10/05/2021 09:00:00 AM,112941,SR Storage Conditions for 10/4/2021,,SR
+Capacity Constraint,10/02/2021 03:52:51 PM,10/03/2021 09:00:00 AM,10/04/2021 09:00:00 AM,112918,SR Storage Conditions for 10/3/2021,,SR
+Capacity Constraint,10/01/2021 03:57:26 PM,10/02/2021 09:00:00 AM,10/03/2021 09:00:00 AM,112884,SR Storage Conditions for 10/2/2021,,SR
+Capacity Constraint,09/30/2021 02:51:03 PM,10/01/2021 09:00:00 AM,10/02/2021 09:00:00 AM,112826,SR Storage Conditions for 10/1/2021,,SR
+Capacity Constraint,09/29/2021 02:44:10 PM,09/30/2021 09:00:00 AM,10/01/2021 09:00:00 AM,112774,SR Storage Conditions for 9/30/2021,,SR
+Capacity Constraint,09/28/2021 02:40:33 PM,09/29/2021 09:00:00 AM,09/30/2021 09:00:00 AM,112741,SR Storage Conditions for 9/29/2021,,SR
+Capacity Constraint,09/27/2021 04:31:00 PM,09/28/2021 09:00:00 AM,09/29/2021 09:00:00 AM,112729,SR Storage Conditions for 9/28/2021,,SR
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112461,LINK System has been restored to full operation,,SR
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112362,LINK System Downtime Due to System Maintenance -- Reminder,,SR
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112133,LINK System Downtime Due to System Maintenance,,SR
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111676,Additional TSA requirements that will impact LINK,,SR
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111546,Forced Password Reset of LINK User Account Password,,SR
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111451,Reminder - Please reset your LINK password by August 25,,SR
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111136,LINK System Downtime Due to System Maintenance,,SR
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110972,TSA Directive - Required Password Changes,,SR
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113677,Measurement Integrity Downtime this Friday Night,,STT
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113487,Current Customer Usage and Informational Posting Downtime,,STT
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112462,LINK System has been restored to full operation,,STT
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112363,LINK System Downtime Due to System Maintenance -- Reminder,,STT
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112134,LINK System Downtime Due to System Maintenance,,STT
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111677,Additional TSA requirements that will impact LINK,,STT
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111547,Forced Password Reset of LINK User Account Password,,STT
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111452,Reminder - Please reset your LINK password by August 25,,STT
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111137,LINK System Downtime Due to System Maintenance,,STT
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110973,TSA Directive - Required Password Changes,,STT
+Capacity Constraint,10/29/2021 03:39:45 PM,10/30/2021 09:00:00 AM,10/31/2021 09:00:00 AM,113863,TE Pipeline Conditions for 10/30/2021,,TE
+Capacity Constraint,10/28/2021 03:06:58 PM,10/29/2021 09:00:00 AM,10/30/2021 09:00:00 AM,113799,TE Pipeline Conditions for 10/29/2021,,TE
+Operational Flow Order,10/28/2021 08:13:46 AM,10/30/2021 09:00:00 AM,11/01/2021 09:00:00 AM,113786,TE Operational Flow Order,,TE
+Capacity Constraint,10/27/2021 04:03:25 PM,10/28/2021 09:00:00 AM,10/29/2021 09:00:00 AM,113778,TE Pipeline Conditions for 10/28/2021,,TE
+Capacity Constraint,10/27/2021 03:18:01 PM,10/27/2021 03:18:01 PM,01/25/2022 03:18:01 PM,113775,N. Little Rock to Bald Knob Line 1 Detailed Investigations,,TE
+Capacity Constraint,10/26/2021 03:14:28 PM,10/27/2021 09:00:00 AM,10/28/2021 09:00:00 AM,113745,TE Pipeline Conditions for 10/27/2021,,TE
+Capacity Constraint,10/26/2021 12:51:36 PM,10/26/2021 12:51:36 PM,01/24/2022 12:51:36 PM,113723,Access Area Imbalance Notice,,TE
+Operational Flow Order,10/26/2021 10:13:18 AM,10/28/2021 09:00:00 AM,01/24/2022 10:10:18 AM,113722,Access Area Operational Flow Order,,TE
+Capacity Constraint,10/25/2021 03:21:18 PM,10/26/2021 09:00:00 AM,10/27/2021 09:00:00 AM,113706,TE Pipeline Conditions for 10/26/2021 -- INTRADAY,,TE
+Capacity Constraint,10/25/2021 03:07:13 PM,10/26/2021 09:00:00 AM,10/27/2021 09:00:00 AM,113704,TE Pipeline Conditions for 10/26/2021,,TE
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113678,Measurement Integrity Downtime this Friday Night,,TE
+Capacity Constraint,10/24/2021 03:05:56 PM,10/25/2021 09:00:00 AM,10/26/2021 09:00:00 AM,113637,TE Pipeline Conditions for 10/25/2021,,TE
+Capacity Constraint,10/24/2021 09:19:19 AM,10/24/2021 09:19:19 AM,01/22/2022 09:19:19 AM,113629,Bald Knob to Walnut Ridge Detailed Investigations -- COMPLETE,,TE
+Capacity Constraint,10/23/2021 03:08:59 PM,10/24/2021 09:00:00 AM,10/25/2021 09:00:00 AM,113610,TE Pipeline Conditions for 10/24/2021,,TE
+Capacity Constraint,10/22/2021 04:05:16 PM,10/23/2021 09:00:00 AM,10/24/2021 09:00:00 AM,113601,TE Pipeline Conditions for 10/23/2021,,TE
+Operational Flow Order,10/21/2021 05:54:17 PM,10/23/2021 09:00:00 AM,10/25/2021 09:00:00 AM,113562,TE Operational Flow Order,,TE
+Capacity Constraint,10/21/2021 03:08:42 PM,10/22/2021 09:00:00 AM,10/23/2021 09:00:00 AM,113560,TE Pipeline Conditions for 10/22/2021,,TE
+Force Majeure,10/21/2021 09:24:52 AM,10/21/2021 09:24:52 AM,01/19/2022 09:24:52 AM,113530,Five Points to Somerset Force Majeure--UPDATE,,TE
+Capacity Constraint,10/20/2021 03:04:54 PM,10/21/2021 09:00:00 AM,10/22/2021 09:00:00 AM,113509,TE Pipeline Conditions for 10/21/2021,,TE
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113488,Current Customer Usage and Informational Posting Downtime,,TE
+Capacity Constraint,10/19/2021 03:20:38 PM,10/20/2021 09:00:00 AM,10/21/2021 09:00:00 AM,113460,TE Pipeline Conditions for 10/20/2021,,TE
+Capacity Constraint,10/18/2021 08:37:41 PM,10/19/2021 09:00:00 AM,10/20/2021 09:00:00 AM,113438,TE Pipeline Conditions for 10/19/2021--INTRADAY,,TE
+Capacity Constraint,10/18/2021 04:07:11 PM,10/19/2021 09:00:00 AM,10/20/2021 09:00:00 AM,113435,TE Pipeline Conditions for 10/19/2021,,TE
+Capacity Constraint,10/17/2021 03:00:08 PM,10/18/2021 09:00:00 AM,10/19/2021 09:00:00 AM,113391,TE Pipeline Conditions for 10/18/2021,,TE
+Capacity Constraint,10/16/2021 03:30:05 PM,10/17/2021 09:00:00 AM,10/18/2021 09:00:00 AM,113377,TE Pipeline Conditions for 10/17/2021,,TE
+Capacity Constraint,10/15/2021 02:57:28 PM,10/16/2021 09:00:00 AM,10/17/2021 09:00:00 AM,113337,TE Pipeline Conditions for 10/16/2021,,TE
+Capacity Constraint,10/14/2021 03:32:27 PM,10/15/2021 09:00:00 AM,10/16/2021 09:00:00 AM,113317,TE Pipeline Conditions for 10/15/2021,,TE
+Operational Flow Order,10/14/2021 08:12:07 AM,10/18/2021 09:00:00 AM,01/12/2022 08:12:07 AM,113286,TE Operational Flow Order -- LIFTED,,TE
+Capacity Constraint,10/13/2021 05:21:22 PM,10/14/2021 09:00:00 AM,10/15/2021 09:00:00 AM,113283,TE Pipeline Conditions for 10/14/2021 -- INTRADAY,,TE
+Capacity Constraint,10/13/2021 03:17:47 PM,10/14/2021 09:00:00 AM,10/15/2021 09:00:00 AM,113277,TE Pipeline Conditions for 10/14/2021,,TE
+Capacity Constraint,10/12/2021 03:28:36 PM,10/13/2021 09:00:00 AM,10/14/2021 09:00:00 AM,113249,TE Pipeline Conditions for 10/13/2021,,TE
+Capacity Constraint,10/11/2021 04:21:56 PM,10/12/2021 09:00:00 AM,10/13/2021 09:00:00 AM,113220,TE Pipeline Conditions for 10/12/2021,,TE
+Capacity Constraint,10/11/2021 07:16:33 AM,10/11/2021 09:00:00 AM,01/09/2022 07:16:33 AM,113190,TE Pipeline Conditions for 10/11/2021 -- INTRADAY,,TE
+Capacity Constraint,10/10/2021 03:48:21 PM,10/11/2021 09:00:00 AM,10/12/2021 09:00:00 AM,113186,TE Pipeline Conditions for 10/11/2021,,TE
+Capacity Constraint,10/09/2021 04:06:15 PM,10/10/2021 09:00:00 AM,10/11/2021 09:00:00 AM,113159,TE Pipeline Conditions for 10/10/2021,,TE
+Capacity Constraint,10/08/2021 08:36:52 PM,10/08/2021 08:36:52 PM,01/06/2022 08:36:52 PM,113136,Lick Creek - Norris City L1 VS2 -- COMPLETE,,TE
+Capacity Constraint,10/08/2021 03:40:25 PM,10/09/2021 09:00:00 AM,10/10/2021 09:00:00 AM,113134,TE Pipeline Conditions for 10/9/2021,,TE
+Capacity Constraint,10/07/2021 03:16:27 PM,10/08/2021 09:00:00 AM,10/09/2021 09:00:00 AM,113079,TE Pipeline Conditions for 10/8/2021,,TE
+Operational Flow Order,10/07/2021 07:51:31 AM,10/09/2021 09:00:00 AM,01/05/2022 07:51:31 AM,113049,TE Operational Flow Order,,TE
+Capacity Constraint,10/06/2021 03:11:46 PM,10/07/2021 09:00:00 AM,10/08/2021 09:00:00 AM,113044,TE Pipeline Conditions for 10/7/2021,,TE
+Operational Flow Order,10/05/2021 04:29:47 PM,10/05/2021 04:29:47 PM,01/03/2022 04:29:47 PM,113013,TE Operational Flow Order -- LIFTED,,TE
+Capacity Constraint,10/05/2021 03:44:59 PM,10/06/2021 09:00:00 AM,10/07/2021 09:00:00 AM,113006,TE Pipeline Conditions for 10/6/2021,,TE
+Capacity Constraint,10/04/2021 04:20:35 PM,10/05/2021 09:00:00 AM,10/06/2021 09:00:00 AM,112979,TE Pipeline Conditions for 10/5/2021,,TE
+Capacity Constraint,10/04/2021 11:38:59 AM,10/04/2021 11:38:59 AM,01/02/2022 11:38:59 AM,112952,TE Imbalance Notice -- UPDATE,,TE
+Capacity Constraint,10/03/2021 03:35:30 PM,10/04/2021 09:00:00 AM,10/05/2021 09:00:00 AM,112943,TE Pipeline Conditions for 10/4/2021,,TE
+Capacity Constraint,10/02/2021 03:54:06 PM,10/03/2021 09:00:00 AM,10/04/2021 09:00:00 AM,112919,TE Pipeline Conditions for 10/3/2021,,TE
+Capacity Constraint,10/02/2021 03:32:58 PM,10/02/2021 03:32:58 PM,12/31/2021 03:32:58 PM,112913,"Lufkin to Joaquin 24"" Line 11 Pipeline Outage -- COMPLETE",,TE
+Capacity Constraint,10/01/2021 08:06:36 PM,10/01/2021 08:06:36 PM,12/30/2021 08:06:36 PM,112892,Karon to Provident City Lines 21 and 22-H Detailed Investigations -- COMPLETE,,TE
+Operational Flow Order,10/01/2021 06:02:14 PM,10/03/2021 09:00:00 AM,12/30/2021 06:02:14 PM,112891,Customer Specific Operational Flow Order,,TE
+Capacity Constraint,10/01/2021 05:56:00 PM,10/03/2021 09:00:00 AM,12/30/2021 05:47:11 PM,112890,TE Imbalance Notice -- UPDATE,,TE
+Operational Flow Order,10/01/2021 05:33:30 PM,10/03/2021 09:00:00 AM,12/30/2021 05:33:30 PM,112889,TE Operational Flow Order,,TE
+Operational Flow Order,10/01/2021 05:30:54 PM,10/03/2021 09:00:00 AM,12/30/2021 05:30:54 PM,112888,TE Operational Flow Order -- LIFTED Effective 9AM 10/3,,TE
+Force Majeure,10/01/2021 04:41:36 PM,10/01/2021 04:41:36 PM,12/30/2021 04:41:36 PM,112886,Five Points to Somerset Force Majeure,,TE
+Capacity Constraint,10/01/2021 04:38:20 PM,10/01/2021 04:38:20 PM,12/30/2021 04:38:20 PM,112885,Five Points to Somerset Detailed Investigations,,TE
+Capacity Constraint,10/01/2021 03:48:46 PM,10/02/2021 09:00:00 AM,10/03/2021 09:00:00 AM,112878,TE Pipeline Conditions for 10/2/2021,,TE
+Capacity Constraint,09/30/2021 03:07:11 PM,10/01/2021 09:00:00 AM,10/02/2021 09:00:00 AM,112831,TE Pipeline Conditions for 10/1/2021,,TE
+Capacity Constraint,09/29/2021 03:08:24 PM,09/30/2021 09:00:00 AM,10/01/2021 09:00:00 AM,112789,TE Pipeline Conditions for 9/30/2021,,TE
+Capacity Constraint,09/28/2021 03:34:08 PM,09/29/2021 09:00:00 AM,09/30/2021 09:00:00 AM,112758,TE Pipeline Conditions for 9/29/2021,,TE
+Capacity Constraint,09/27/2021 04:32:26 PM,09/28/2021 09:00:00 AM,09/29/2021 09:00:00 AM,112730,TE Pipeline Conditions for 9/28/2021,,TE
+Operational Flow Order,09/27/2021 08:07:40 AM,09/28/2021 09:00:00 AM,12/26/2021 08:07:40 AM,112695,TE Operational Flow Order,,TE
+Capacity Constraint,09/26/2021 03:17:54 PM,09/27/2021 09:00:00 AM,09/28/2021 09:00:00 AM,112692,TE Pipeline Conditions for 9/27/2021,,TE
+Capacity Constraint,09/25/2021 03:07:22 PM,09/26/2021 09:00:00 AM,09/27/2021 09:00:00 AM,112664,TE Pipeline Conditions for 9/26/2021,,TE
+Capacity Constraint,09/25/2021 02:12:02 PM,09/25/2021 02:12:02 PM,12/24/2021 02:12:02 PM,112644,"Seymour to Batesville 24"" Line 1 Isolation -- COMPLETE",,TE
+Capacity Constraint,09/24/2021 03:46:01 PM,09/25/2021 09:00:00 AM,09/26/2021 09:00:00 AM,112635,TE Pipeline Conditions for 9/25/2021,,TE
+Capacity Constraint,09/23/2021 03:44:30 PM,09/24/2021 09:00:00 AM,09/25/2021 09:00:00 AM,112607,TE Pipeline Conditions for 9/24/2021,,TE
+Capacity Constraint,09/22/2021 03:14:34 PM,09/23/2021 09:00:00 AM,09/24/2021 09:00:00 AM,112574,TE Pipeline Conditions for 9/23/2021,,TE
+Capacity Constraint,09/21/2021 03:20:22 PM,09/22/2021 09:00:00 AM,09/23/2021 09:00:00 AM,112547,TE Pipeline Conditions for 9/22/2021,,TE
+Capacity Constraint,09/20/2021 03:44:07 PM,09/21/2021 09:00:00 AM,09/22/2021 09:00:00 AM,112514,TE Pipeline Conditions for 9/21/2021,,TE
+Capacity Constraint,09/20/2021 09:33:00 AM,09/21/2021 09:00:00 AM,12/19/2021 09:19:25 AM,112493,TE Imbalance Notice -- UPDATE,,TE
+Capacity Constraint,09/19/2021 03:16:49 PM,09/20/2021 09:00:00 AM,09/21/2021 09:00:00 AM,112483,TE Pipeline Conditions for 9/20/2021,,TE
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112463,LINK System has been restored to full operation,,TE
+Capacity Constraint,09/17/2021 06:42:40 PM,09/19/2021 09:00:00 AM,09/20/2021 09:00:00 AM,112421,TE Pipeline Conditions for 9/19/2021,,TE
+Capacity Constraint,09/17/2021 06:32:23 PM,09/17/2021 06:32:23 PM,12/16/2021 06:32:23 PM,112419,CHJ to EOL Line 1-A VS2 Detailed Investigations -- COMPLETE,,TE
+Capacity Constraint,09/17/2021 03:08:50 PM,09/18/2021 09:00:00 AM,09/19/2021 09:00:00 AM,112414,TE Pipeline Conditions for 9/18/2021,,TE
+Capacity Constraint,09/16/2021 02:51:10 PM,09/17/2021 09:00:00 AM,09/18/2021 09:00:00 AM,112373,TE Pipeline Conditions for 9/17/2021,,TE
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112364,LINK System Downtime Due to System Maintenance -- Reminder,,TE
+Capacity Constraint,09/15/2021 03:01:22 PM,09/16/2021 09:00:00 AM,09/17/2021 09:00:00 AM,112324,TE Pipeline Conditions for 9/16/2021,,TE
+Capacity Constraint,09/14/2021 02:48:36 PM,09/15/2021 09:00:00 AM,09/16/2021 09:00:00 AM,112288,TE Pipeline Conditions for 9/15/2021,,TE
+Capacity Constraint,09/13/2021 03:16:40 PM,09/14/2021 09:00:00 AM,09/15/2021 09:00:00 AM,112275,TE Pipeline Conditions for 9/14/2021,,TE
+Capacity Constraint,09/12/2021 03:07:21 PM,09/13/2021 09:00:00 AM,09/14/2021 09:00:00 AM,112242,TE Pipeline Conditions for 9/13/2021,,TE
+Capacity Constraint,09/11/2021 03:29:29 PM,09/12/2021 09:00:00 AM,09/13/2021 09:00:00 AM,112222,TE Pipeline Conditions for 9/12/2021,,TE
+Capacity Constraint,09/10/2021 03:12:10 PM,09/11/2021 09:00:00 AM,09/12/2021 09:00:00 AM,112202,TE Pipeline Conditions for 9/11/2021,,TE
+Capacity Constraint,09/09/2021 03:00:06 PM,09/10/2021 09:00:00 AM,09/11/2021 09:00:00 AM,112143,TE Pipeline Conditions for 9/10/2021,,TE
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112135,LINK System Downtime Due to System Maintenance,,TE
+Capacity Constraint,09/08/2021 03:02:35 PM,09/09/2021 09:00:00 AM,09/10/2021 09:00:00 AM,112095,TE Pipeline Conditions for 9/9/2021,,TE
+Capacity Constraint,09/07/2021 03:08:33 PM,09/08/2021 09:00:00 AM,09/09/2021 09:00:00 AM,112084,TE Pipeline Conditions for 9/8/2021,,TE
+Capacity Constraint,09/06/2021 03:15:31 PM,09/07/2021 09:00:00 AM,09/08/2021 09:00:00 AM,112051,TE Pipeline Conditions for 9/7/2021,,TE
+Capacity Constraint,09/05/2021 03:14:18 PM,09/06/2021 09:00:00 AM,09/07/2021 09:00:00 AM,112027,TE Pipeline Conditions for 9/6/2021,,TE
+Capacity Constraint,09/04/2021 03:25:14 PM,09/04/2021 03:25:14 PM,12/03/2021 03:25:14 PM,112005,"Gillis to Grand Chenier 30"" Line 41 Outage -- COMPLETE",,TE
+Capacity Constraint,09/04/2021 03:18:09 PM,09/05/2021 09:00:00 AM,09/06/2021 09:00:00 AM,112002,TE Pipeline Conditions for 9/5/2021,,TE
+Capacity Constraint,09/03/2021 08:03:19 PM,09/03/2021 08:03:19 PM,12/02/2021 08:03:19 PM,111980,"Longview to Atlanta 24"" Line 1 Pipeline Outage -- COMPLETE",,TE
+Capacity Constraint,09/03/2021 08:00:39 PM,09/04/2021 09:00:00 AM,09/05/2021 09:00:00 AM,111979,TE Pipeline Conditions for 9/4/2021 -- REVISED,,TE
+Capacity Constraint,09/03/2021 03:00:46 PM,09/04/2021 09:00:00 AM,09/05/2021 09:00:00 AM,111960,TE Pipeline Conditions for 9/4/2021,,TE
+Force Majeure,09/03/2021 08:06:48 AM,09/03/2021 08:06:48 AM,12/02/2021 08:06:48 AM,111951,TE Lines 1-B-1 and 1-B-2 Force Majeure -- LIFTED,,TE
+Capacity Constraint,09/03/2021 08:05:31 AM,09/03/2021 08:05:31 AM,12/02/2021 08:05:31 AM,111950,TE 1-B-1 and 1-B-2 Outage -- COMPLETE,,TE
+Capacity Constraint,09/02/2021 03:15:28 PM,09/03/2021 09:00:00 AM,09/04/2021 09:00:00 AM,111942,TE Pipeline Conditions for 9/3/2021,,TE
+Force Majeure,09/02/2021 12:17:35 PM,09/02/2021 12:17:35 PM,12/01/2021 12:17:35 PM,111920,TE Lines 1-B-1 and 1-B-2 Force Majeure,,TE
+Capacity Constraint,09/02/2021 12:14:45 PM,09/02/2021 12:14:45 PM,12/01/2021 12:04:45 PM,111919,TE 1-B-1 and 1-B-2 Outage,,TE
+Capacity Constraint,09/02/2021 08:19:36 AM,09/03/2021 09:00:00 AM,12/01/2021 08:19:36 AM,111916,TE Imbalance Notice -- UPDATE,,TE
+Capacity Constraint,09/01/2021 03:10:00 PM,09/02/2021 09:00:00 AM,09/03/2021 09:00:00 AM,111907,TE Pipeline Conditions for 9/2/2021,,TE
+Capacity Constraint,08/31/2021 03:44:17 PM,09/01/2021 09:00:00 AM,09/02/2021 09:00:00 AM,111875,TE Pipeline Conditions for 9/1/2021,,TE
+Operational Flow Order,08/31/2021 08:45:19 AM,08/31/2021 08:45:19 AM,09/01/2021 09:00:00 AM,111846,TE M3 Operational Flow Order -- LIFTED EFF 9AM 9/1,,TE
+Operational Flow Order,08/31/2021 07:37:42 AM,08/31/2021 07:37:42 AM,08/31/2021 09:00:00 AM,111845,TE ELA and WLA Operational Flow Order -- LIFTED EFF 9AM,,TE
+Capacity Constraint,08/30/2021 03:14:53 PM,08/31/2021 09:00:00 AM,09/01/2021 09:00:00 AM,111841,TE Pipeline Conditions for 8/31/2021,,TE
+Capacity Constraint,08/29/2021 03:15:42 PM,08/30/2021 09:00:00 AM,08/31/2021 09:00:00 AM,111814,TE Pipeline Conditions for 8/30/2021,,TE
+Capacity Constraint,08/28/2021 03:16:16 PM,08/29/2021 09:00:00 AM,08/30/2021 09:00:00 AM,111775,TE Pipeline Conditions for 8/29/2021,,TE
+Capacity Constraint,08/27/2021 03:03:28 PM,08/28/2021 09:00:00 AM,08/29/2021 09:00:00 AM,111750,TE Pipeline Conditions for 8/28/2021,,TE
+Operational Flow Order,08/27/2021 11:14:55 AM,08/29/2021 09:00:00 AM,11/25/2021 11:14:55 AM,111744,TE ELA and WLA Operational Flow Order,,TE
+Operational Flow Order,08/26/2021 03:12:25 PM,08/30/2021 09:00:00 AM,11/24/2021 03:12:25 PM,111734,TE M3 Operational Flow Order,,TE
+Capacity Constraint,08/26/2021 02:55:04 PM,08/27/2021 09:00:00 AM,08/28/2021 09:00:00 AM,111715,TE Pipeline Conditions for 8/27/2021,,TE
+Operational Flow Order,08/26/2021 01:17:34 PM,08/28/2021 09:00:00 AM,11/24/2021 01:17:34 PM,111708,TE M3 OFO -- LIFTED,,TE
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111678,Additional TSA requirements that will impact LINK,,TE
+Capacity Constraint,08/25/2021 02:59:36 PM,08/26/2021 09:00:00 AM,08/27/2021 09:00:00 AM,111633,TE Pipeline Conditions for 8/26/2021,,TE
+Capacity Constraint,08/24/2021 03:18:00 PM,08/25/2021 09:00:00 AM,08/26/2021 09:00:00 AM,111622,TE Pipeline Conditions for 8/25/2021,,TE
+Capacity Constraint,08/23/2021 03:21:08 PM,08/24/2021 09:00:00 AM,08/25/2021 09:00:00 AM,111573,TE Pipeline Conditions for 8/24/2021,,TE
+Capacity Constraint,08/23/2021 07:56:41 AM,08/23/2021 07:56:41 AM,08/28/2021 09:00:00 AM,111550,"Pollard to Oran 24"" Line 1 Isolation -- COMPLETE",,TE
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111548,Forced Password Reset of LINK User Account Password,,TE
+Capacity Constraint,08/22/2021 03:00:21 PM,08/23/2021 09:00:00 AM,08/24/2021 09:00:00 AM,111509,TE Pipeline Conditions for 8/23/2021,,TE
+Capacity Constraint,08/21/2021 03:00:57 PM,08/22/2021 09:00:00 AM,08/23/2021 09:00:00 AM,111485,TE Pipeline Conditions for 8/22/2021,,TE
+Capacity Constraint,08/20/2021 03:13:28 PM,08/21/2021 09:00:00 AM,08/22/2021 09:00:00 AM,111477,TE Pipeline Conditions for 8/21/2021,,TE
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111453,Reminder - Please reset your LINK password by August 25,,TE
+Operational Flow Order,08/20/2021 07:29:30 AM,08/23/2021 09:00:00 AM,11/18/2021 07:29:30 AM,111432,TE M3 Operational Flow Order,,TE
+Capacity Constraint,08/19/2021 03:00:06 PM,08/20/2021 09:00:00 AM,08/21/2021 09:00:00 AM,111412,TE Pipeline Conditions for 8/20/2021,,TE
+Operational Flow Order,08/19/2021 08:01:18 AM,08/20/2021 09:00:00 AM,08/21/2021 09:00:00 AM,111405,TE M3 Operational Flow Order,,TE
+Capacity Constraint,08/18/2021 03:04:24 PM,08/19/2021 09:00:00 AM,08/20/2021 09:00:00 AM,111385,TE Pipeline Conditions for 8/19/2021,,TE
+Capacity Constraint,08/17/2021 03:06:57 PM,08/18/2021 09:00:00 AM,08/19/2021 09:00:00 AM,111360,TE Pipeline Conditions for 8/18/2021,,TE
+Capacity Constraint,08/16/2021 03:08:35 PM,08/17/2021 09:00:00 AM,08/18/2021 09:00:00 AM,111348,TE Pipeline Conditions for 8/17/2021,,TE
+Capacity Constraint,08/15/2021 02:59:19 PM,08/16/2021 09:00:00 AM,08/17/2021 09:00:00 AM,111309,TE Pipeline Conditions for 8/16/2021,,TE
+Capacity Constraint,08/14/2021 03:15:22 PM,08/15/2021 09:00:00 AM,08/16/2021 09:00:00 AM,111300,TE Pipeline Conditions for 8/15/2021,,TE
+Capacity Constraint,08/13/2021 05:00:10 PM,08/14/2021 09:00:00 AM,08/15/2021 09:00:00 AM,111278,TE Pipeline Conditions for 8/14/2021 -- INTRADAY,,TE
+Capacity Constraint,08/13/2021 03:18:20 PM,08/14/2021 09:00:00 AM,08/15/2021 09:00:00 AM,111273,TE Pipeline Conditions for 8/14/2021,,TE
+Capacity Constraint,08/12/2021 02:52:18 PM,08/13/2021 09:00:00 AM,08/14/2021 09:00:00 AM,111235,TE Pipeline Conditions for 8/13/2021,,TE
+Operational Flow Order,08/12/2021 02:30:00 PM,08/12/2021 02:30:00 PM,08/15/2021 09:00:00 AM,111226,TE M3 Operational Flow Order -- LIFTED EFF 9AM 8/15,,TE
+Capacity Constraint,08/11/2021 03:09:31 PM,08/12/2021 09:00:00 AM,08/13/2021 09:00:00 AM,111206,TE Pipeline Conditions for 8/12/2021,,TE
+Capacity Constraint,08/10/2021 03:08:43 PM,08/11/2021 09:00:00 AM,08/12/2021 09:00:00 AM,111180,TE Pipeline Conditions for 8/11/2021,,TE
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111138,LINK System Downtime Due to System Maintenance,,TE
+Operational Flow Order,08/09/2021 03:30:00 PM,08/11/2021 09:00:00 AM,11/07/2021 02:54:58 PM,111097,TE M3 Operational Flow Order,,TE
+Capacity Constraint,08/09/2021 03:09:15 PM,08/10/2021 09:00:00 AM,08/11/2021 09:00:00 AM,111115,TE Pipeline Conditions for 8/10/2021,,TE
+Capacity Constraint,08/08/2021 02:52:00 PM,08/09/2021 09:00:00 AM,08/10/2021 09:00:00 AM,111069,TE Pipeline Conditions for 8/9/2021,,TE
+Capacity Constraint,08/07/2021 03:05:07 PM,08/08/2021 09:00:00 AM,08/09/2021 09:00:00 AM,111044,TE Pipeline Conditions for 8/8/2021,,TE
+Capacity Constraint,08/06/2021 02:59:53 PM,08/07/2021 09:00:00 AM,08/08/2021 09:00:00 AM,111021,TE Pipeline Conditions for 8/7/2021,,TE
+Capacity Constraint,08/06/2021 07:25:51 AM,08/06/2021 09:00:00 AM,08/07/2021 09:00:00 AM,111008,TE Pipeline Conditions for 8/6/2021--INTRADAY,,TE
+Operational Flow Order,08/05/2021 03:33:44 PM,08/05/2021 03:33:44 PM,08/07/2021 09:00:00 AM,111007,TE M1-24 and M2-24 Operational Flow Order -- LIFTED EFF 9AM 8/7,,TE
+Capacity Constraint,08/05/2021 03:16:31 PM,08/06/2021 09:00:00 AM,08/07/2021 09:00:00 AM,111004,TE Pipeline Conditions for 8/6/2021,,TE
+Force Majeure,08/05/2021 12:36:07 PM,08/05/2021 12:36:07 PM,11/03/2021 12:36:07 PM,110980,"30"" System Force Majeure--LIFTED",,TE
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110974,TSA Directive - Required Password Changes,,TE
+Capacity Constraint,08/04/2021 03:10:31 PM,08/05/2021 09:00:00 AM,08/06/2021 09:00:00 AM,110954,TE Pipeline Conditions for 8/5/2021,,TE
+Force Majeure,08/03/2021 08:42:57 PM,08/03/2021 08:42:57 PM,11/01/2021 08:42:57 PM,110925,Line 1 Longview to Atlanta Force Majeure -- LIFTED,,TE
+Capacity Constraint,08/03/2021 08:36:59 PM,08/03/2021 08:36:59 PM,11/01/2021 08:36:59 PM,110924,Line 1 Longview to Atlanta Outage -- COMPLETE,,TE
+Capacity Constraint,08/03/2021 03:36:33 PM,08/04/2021 09:00:00 AM,08/05/2021 09:00:00 AM,110920,TE Pipeline Conditions for 8/4/2021,,TE
+Capacity Constraint,08/02/2021 03:59:18 PM,08/03/2021 09:00:00 AM,08/04/2021 09:00:00 AM,110895,TE Pipeline Conditions for 8/3/2021,,TE
+Capacity Constraint,08/01/2021 03:16:52 PM,08/02/2021 09:00:00 AM,08/03/2021 09:00:00 AM,110861,TE Pipeline Conditions for 8/2/2021,,TE
+Computer System Status,10/25/2021 09:19:10 AM,10/25/2021 09:19:10 AM,01/23/2022 09:19:10 AM,113679,Measurement Integrity Downtime this Friday Night,,VCP
+Computer System Status,10/19/2021 04:19:02 PM,10/19/2021 04:19:02 PM,01/17/2022 04:19:02 PM,113489,Current Customer Usage and Informational Posting Downtime,,VCP
+Other,09/18/2021 05:00:00 PM,09/18/2021 05:00:00 PM,12/17/2021 04:53:53 PM,112464,LINK System has been restored to full operation,,VCP
+Other,09/16/2021 02:00:00 PM,09/16/2021 02:00:00 PM,12/15/2021 02:00:00 PM,112365,LINK System Downtime Due to System Maintenance -- Reminder,,VCP
+Computer System Status,09/09/2021 09:00:00 AM,09/09/2021 09:00:00 AM,12/08/2021 09:00:00 AM,112136,LINK System Downtime Due to System Maintenance,,VCP
+Computer System Status,08/25/2021 04:40:24 PM,08/25/2021 04:40:24 PM,11/23/2021 04:40:24 PM,111679,Additional TSA requirements that will impact LINK,,VCP
+Computer System Status,08/23/2021 07:40:35 AM,08/23/2021 07:40:35 AM,11/21/2021 07:40:35 AM,111549,Forced Password Reset of LINK User Account Password,,VCP
+Computer System Status,08/20/2021 12:12:01 PM,08/20/2021 12:12:01 PM,11/18/2021 12:12:01 PM,111454,Reminder - Please reset your LINK password by August 25,,VCP
+Computer System Status,08/10/2021 07:31:32 AM,08/10/2021 07:31:32 AM,11/08/2021 07:31:32 AM,111139,LINK System Downtime Due to System Maintenance,,VCP
+Computer System Status,08/05/2021 08:20:54 AM,08/05/2021 08:20:54 AM,11/03/2021 08:13:54 AM,110975,TSA Directive - Required Password Changes,,VCP
