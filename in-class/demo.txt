@@ -1,0 +1,39 @@
+DEMO TEXT
+
+TELEPHONE NUMBERS
+Tel. 718-392-4793
+Tel. (646) 469-3211
+Tel. 917.425.2796
+
+NUMBERS
+1
+12
+123
+123,456
+123,456,789
+123,456,789.01
+
+EMAILS
+sandeep.junnarkar@journalism.cuny.edu
+sandeepj@gmail.com
+sjunnarkar@bloomberg.net
+sandeep.junnarkar@news.co.uk
+
+
+POLICE
+Det. Frank Castille
+Police Officer Dan D. Dennings
+Lt. Patrician Grace
+Detective Susan Treeble
+Officer Cantwell Brady-Stevens
+
+
+MOCK TABLE
+cat 3452 black
+dog 234 white
+fish 3562 silver
+rat 94 white
+bird 1957 purple
+horse 3 black
+chameleon  5724 green
+snake 6730 red
