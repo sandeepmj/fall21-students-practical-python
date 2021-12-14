@@ -1,0 +1,4 @@
+request_date,case_number,decision,decision_date,source_file
+"february 5, 2015",6952578n,rejected,"february 27, 2015",docs/decision01.txt
+"march 14, 2019",7924923n,accepted,"march 14, 2019",docs/decision02.txt
+"october 28, 2019",4964154n,rejected,"march 14, 2019",docs/decision03.txt
